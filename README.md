@@ -10,7 +10,7 @@ ada-2023-project-mandarinecorp created by GitHub Classroom
 
 ## Analyses to be conducted 
 
-For all these analyses, dataframes are made for each language called : _language code_ _PhiloVIEWS
+For all these analyses, dataframes are made for each language called : _language code_ _PhiloVIEWS (eg : en_PhiloVIEWS)
 
 Headers for the dataframe : 
 - article : name of the page/philosophy of interest
