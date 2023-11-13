@@ -17,9 +17,9 @@ Headers for the dataframe :
 - timestamp : date of measure (YYYYMMDDHH)
 - views : views for this day 
 
-+ **General evolution of philosophical interests around lockpoint** :
+ ###General evolution of philosophical interests around lockpoint :
   
     
 
 
-+ **Cross comparison between languages** 
+###Cross comparison between languages : 
