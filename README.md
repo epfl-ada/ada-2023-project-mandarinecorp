@@ -10,6 +10,10 @@ From the basis of Prof. West's analysis, we observed that Wikipedia views and us
 
 ## Proposed additional datasets
 Views of philosophical and religious current pages retrieved from the Wikipedia API: "https://en.wikipedia.org/w/api.php"
+We use the API in three different ways : 
++ to retrieve the names of the philosophies from the english page "List of philosophies" by retrieving the content of the page and cleaning it to obtain the right format
++ to obtain the views from a page between two dates
++ to obtain the pages in other languages, from the english url
 
 ## Methods
 
