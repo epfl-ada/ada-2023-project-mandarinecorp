@@ -55,14 +55,7 @@ A major difficulty and limit of this idea and procedure is that results will be 
 
 - Data cleaning/ processing: Karl and Clementine.
 - Defining analysis tools and methods: Hippolyte and Louis.
-
-### Hippo version
-
-Looking at outputs, all the team contributes to interpreting results and develop conclusion or going back to new hypothesis or methodology proposals.
-
-### Louis version
-
-Interpretation of the results: All the team together, and if we don’t agree on conclusions we provide further analysis sharing the work using the previously described organization.
+- Interpretation of the results: All the team together, and if we don’t agree on conclusions we provide further analysis sharing the work using the previously described organization.
 
 ## Questions for TAs
 
