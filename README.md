@@ -6,8 +6,8 @@ From the basis of Prof. West's analysis, we observed that Wikipedia views and us
 
 ## Research Questions
 
-1. Do Wikipedia's philosophy and religion page views provide insights into how individuals perceive life amid the unprecedented social conditions of COVID-19?
-2. How do these perceptions vary across countries, and do cultural differences in main cultural philosophical currents influence philosophical and religious shifts?
+1. What are the differents categories of philosophies and how do they interact with each other during Covid ? 
+2. How do the interests for philosophies vary around Covid timepoint and can it give insights on how people dealt with this pandemic? 
 3. Can we identify groups of languages exhibiting similar philosophical and religious reactions to the changes induced by COVID-19?
 
 ## Proposed additional datasets
