@@ -28,7 +28,7 @@ Finally, we will explore how attention to philosophy topics varies across langua
 
 ## Organization within the team
 
-Clementine : Get the data from wikipedia. Create and clean the dataframes used across the various parts. Methodology to study trends with Hippolyte. Study of the trends and interpretation. 
+Clementine : Get all the data from wikipedia, in all languages.  Create and clean the dataframes used across the various parts. Methodology to study trends with Hippolyte. Study of the trends and interpretation. 
 
 Louis : Studied and interpret changes across languages. Defined the project goals with the others. Methodoloy to observe the behavior of our data in other language (all but english). 
 
