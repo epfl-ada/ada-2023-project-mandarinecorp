@@ -28,7 +28,7 @@ Finally, we will explore how attention to philosophy topics varies across langua
 
 ## Organization within the team
 
-Clementine : 
+Clementine : Get the data from wikipedia. Create and clean the dataframes used across the various parts. Methodology to study trends with Hippolyte. Study of the trends and interpretation. 
 Louis : 
 Karl : 
 Hippolyte : Defining philosophy clusters and build correlation heatmaps per period. Methodology for trend changes study along with Clementine.
