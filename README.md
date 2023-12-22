@@ -1,3 +1,5 @@
+# Relevant website for this project : https://kl4rkus.github.io/ada-template-website/
+
 # Abstract
 
 From the basis of Prof. West's analysis, we observed that Wikipedia views and usage were affected by COVID-19. We think that this change of behavior in Wikipedia users can be linked to the social and societal changes happening during COVID-19. Therefore, we can argue that sudden changes in social habits induced inner questions in the population. In other words, the population will be able to compare their life before and after these changes and regarding their perception of life in general. Our perception of life is mainly influenced by timeless principles such as our philosophical and religious knowledge. Therefore, we want to see if we can observe this phenomenon in the data using the views on philosophy and religion pages on Wikipedia.
